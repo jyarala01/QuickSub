@@ -1,10 +1,10 @@
 # QuickSub  
 
 Contributors:
-Peter Yungman
-Giuliana Mudryj
-Julian Martinez
-William Huffman
+Peter Yungman,
+Giuliana Mudryj,
+Julian Martinez,
+William Huffman,
 Juan Yarala
 
 ## 🚀 Hackathon Project Overview  
