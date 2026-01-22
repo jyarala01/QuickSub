@@ -1,5 +1,12 @@
 # QuickSub  
 
+Contributors:
+Peter Yungman
+Giuliana Mudryj
+Julian Martinez
+William Huffman
+Juan Yarala
+
 ## 🚀 Hackathon Project Overview  
 **QuickSub** was developed during **SwampHacks X**, the University of Florida's largest student-run hackathon, held on **January 25-26, 2025**. It addresses the challenges substitute teachers face when finding and applying for positions at nearby schools. Our goal is to streamline the process and create a user-friendly platform to connect schools in need with available substitutes.  
 
